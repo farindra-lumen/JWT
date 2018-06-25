@@ -2,7 +2,7 @@
     "name": "farindra-lumen/jwt",
     "description": "Lumen Json Web Token Package",
     "type": "library",
-    "license": "opensource",
+    "license": "MIT",
     "authors": [
         {
             "name": "farindra",
